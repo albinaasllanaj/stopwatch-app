@@ -21,8 +21,11 @@ h1{
 
 .buttons{
     font-size: 40px;
-   
 
+}
+
+.stop, .play, .reset{
+    color: white;
 }
 
 .play{
