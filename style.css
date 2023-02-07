@@ -32,6 +32,10 @@ h3{
     color: white;
 }
 
+.play:hover, .stop:hover, .reset:hover{
+    color: #DBD9E5;
+}
+
 .play{
     font-size: 70px;
     margin-left: 15px;
@@ -43,6 +47,15 @@ p{
     text-align: center;
     font-weight: bold;
     
+}
+
+.albina{
+    text-decoration: none;
+    color: #E8CEC9;
+}
+
+.albina:hover{
+    color: #DBD9E5;
 }
 
 @media only screen and (max-width: 600px){
